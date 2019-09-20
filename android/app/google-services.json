@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "26374050013",
+    "firebase_url": "https://kredit-plus-e5649.firebaseio.com",
+    "project_id": "kredit-plus-e5649",
+    "storage_bucket": "kredit-plus-e5649.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26374050013:android:7b7d07df7a2f191f7d4b34",
+        "android_client_info": {
+          "package_name": "com.adityakristianto.kredit_plus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26374050013-19b4vkf4hllpr9rd9vka76tvlsv7ir43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3Os4iv6q-U-EbeIBGWu1uMTHhZG_mSKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "26374050013-19b4vkf4hllpr9rd9vka76tvlsv7ir43.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
